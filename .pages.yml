@@ -12,3 +12,10 @@ content:
     fields:
       two
       three
+  - name: pets
+    label: pets
+    path: src/_data/pets.json
+    type: file
+    fields:
+      seven
+      three
